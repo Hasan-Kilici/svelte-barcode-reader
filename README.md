@@ -1,3 +1,11 @@
+<div style="text-align:center">
+
+![image](https://github.com/Hasan-Kilici/svelte-barcode-reader/assets/105741983/6e8374e3-a8a2-4826-84cf-b51ff59f288f)
+### Svelte barcode Reader
+![image](https://github.com/Hasan-Kilici/svelte-barcode-reader/assets/105741983/5b6320b1-9cd5-4b42-912f-568beaef93b8)
+
+</div>
+
 # Svelte + Vite
 
 This template should help get you started developing with Svelte in Vite.
